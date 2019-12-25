@@ -1,0 +1,9 @@
+E:\Projects\Painter\Painter\bin\Debug\Painter.exe
+E:\Projects\Painter\Painter\bin\Debug\Painter.pdb
+E:\Projects\Painter\Painter\obj\Debug\Painter.csprojAssemblyReference.cache
+E:\Projects\Painter\Painter\obj\Debug\Painter.DrawingSample.resources
+E:\Projects\Painter\Painter\obj\Debug\Painter.Properties.Resources.resources
+E:\Projects\Painter\Painter\obj\Debug\Painter.csproj.GenerateResource.cache
+E:\Projects\Painter\Painter\obj\Debug\Painter.csproj.CoreCompileInputs.cache
+E:\Projects\Painter\Painter\obj\Debug\Painter.exe
+E:\Projects\Painter\Painter\obj\Debug\Painter.pdb
